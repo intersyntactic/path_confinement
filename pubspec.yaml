@@ -1,0 +1,12 @@
+name: is_path_confinement
+description: >-
+  Checks whether a filesystem path stays inside a directory tree, resolving
+  symlinks and normalizing paths that do not exist yet.
+version: 0.1.0
+repository: https://github.com/intersyntactic/path_confinement
+
+environment:
+  sdk: ^3.13.0
+
+dev_dependencies:
+  lints: ^6.1.0

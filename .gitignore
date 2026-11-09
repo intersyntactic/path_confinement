@@ -1,0 +1,4 @@
+.dart_tool/
+pubspec.lock
+.tool-output/
+.DS_Store
